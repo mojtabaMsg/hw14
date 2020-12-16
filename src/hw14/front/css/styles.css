@@ -1,0 +1,74 @@
+*{
+			padding: 0;
+			margin: 0;
+			border: 0;
+		}
+
+		
+		.bodyClass{
+			background:url(../img/galax.jpg);
+			 background-repeat: no-repeat;
+			 width: 100%;
+			 height: 100%;
+			 background-position: center;
+			 background-size: cover;
+			 
+
+		}
+
+		.innerBox{
+			   margin: 0 auto;
+			   width: 330px;
+	     	   height: 280px;
+			   margin-top: 166px;
+		       background-color: #bebbbf96;
+	     	    padding-top: 30px;
+		 }
+		
+		input{
+			display:block;
+			margin-left: 30px;
+			padding-left: 10px;
+		}
+
+		.inputClass{
+			    height: 35px;
+    			width: 275px;
+    			margin-bottom: 15px;
+    			background-color: #32323782;
+    			color: white;
+		}
+
+		h2{
+			color: white;
+			margin-left: 140px;
+			padding-bottom: 20px;
+		}
+
+		.btn{
+			height: 35px;
+    		width: 275px;
+    		margin-bottom: 15px;
+			background-color: #683eaa;
+			color: white;	
+
+		}
+
+		.btn:hover {
+ 		    background-color: #4d2887;
+		}
+
+		p{
+			color: white;
+			margin-left: 100px;
+		}
+
+		a{
+			text-decoration: none;
+			color: white;
+		}
+
+		::placeholder { 
+			  color: white;
+			  opacity: .5; 
+		}
