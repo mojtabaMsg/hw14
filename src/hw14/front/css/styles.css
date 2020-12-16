@@ -17,12 +17,12 @@
 		}
 
 		.innerBox{
-			   margin: 0 auto;
-			   width: 330px;
-	     	   height: 280px;
-			   margin-top: 166px;
-		       background-color: #bebbbf96;
-	     	    padding-top: 30px;
+			margin: 0 auto;
+	 		width: 330px;
+	         	height: 280px;
+		        margin-top: 166px;
+		        background-color: #bebbbf96;
+	     	        padding-top: 30px;
 		 }
 		
 		input{
@@ -32,7 +32,7 @@
 		}
 
 		.inputClass{
-			    height: 35px;
+			height: 35px;
     			width: 275px;
     			margin-bottom: 15px;
     			background-color: #32323782;
@@ -47,15 +47,15 @@
 
 		.btn{
 			height: 35px;
-    		width: 275px;
-    		margin-bottom: 15px;
+    		        width: 275px;
+    		        margin-bottom: 15px;
 			background-color: #683eaa;
 			color: white;	
 
 		}
 
 		.btn:hover {
- 		    background-color: #4d2887;
+ 		        background-color: #4d2887;
 		}
 
 		p{
